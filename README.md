@@ -1,6 +1,6 @@
 # Several changes made (English) Not finished yet
-1.  add Monucular tum format video readin function see mono_tum.cc
-2.  add Monocular Instant-NGP format poes save function see system.cc 
+1.  Monucular tum format video readin function see mono_tum.cc
+2. Monocular Instant-NGP format poes save function see system.cc 
 
 # 一些改变(中文) 还没有完成
 1. 增加了单目读取视频功能，并且保存ORB-SLAM2图片帧数据集
